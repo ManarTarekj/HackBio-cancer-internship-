@@ -59,7 +59,7 @@ storability. ( Munk *et al*, 2024)
 # Conclusion
 
 R shiny package have important role in cancer research as it is flexible, enables researchers to customize their own tool according to their needs and facilitate collaboration of the team as it could be applied on different platforms. 
-It can also integrated with machine learning to be used in Personalized Medicine  according to patient's genetic profile as well as the prognosis.
+It can also integrated with machine learning to be used in Personalized Medicine  according to patient's genetic profile as well as in prognosis.
 
 # References
 
