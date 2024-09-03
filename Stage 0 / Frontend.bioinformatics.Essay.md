@@ -48,21 +48,18 @@ height="1.011111111111111in"}
 
 # Case study
 
-Holomics, researchers developed it to comprehensively analyse their
-Datasets passing by single-omics analysis and multi-omics analysis.
+Holomics, researchers developed by using R shiny package to analyse diffrent omics Datasets. 
+Data upload: user should upload Datasets including transcriptomics, genomics, proteomics and macrobiotics. Holomics undergoes initial filtrating and remove all irrelevant data. 
+Single omics analysis: each Dataset is analysed statistically to catch the most relevant points and information in it and to reduce complexity.  
+Multi-omics integration: Holomics undergoes correlation analysis between diffrent layers of the Datasets to provide visualised analysis with informative insights.  
 
-They used it to analyse integrated omics of sugar beets storability
-represented in transcriptomics, metabolomics and macrobiotics data.
-
-It results insights about key factors about improving sugar beets
+They used it to analyse integrated omics of sugar beets storability and it results insights about key factors about improving sugar beets
 storability. ( Munk *et al*, 2024)
 
 # Conclusion
 
-R shiny package is useful web application for R users and biologists who
-don\'t have strong programming skills. It can be used to analyze,
-visualise biological data and could be integrated with other databases
-or softwares.
+R shiny package is useful web application for R users and biologists who don\'t have strong programming skills.having important role in cancer research as it is flexible and unables researchers to customize their own tool according to their needs, facilitate collaboration of the team as it could be applied on different platforms enable them to be updated real time with every new information. 
+It can also integrated with machine learning to be used in Personalized Medicine  according to patient's genetic profile as well as the prognosis.
 
 # References
 
