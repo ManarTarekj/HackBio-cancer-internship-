@@ -1,5 +1,4 @@
----
-title: "[]{#_30j0zll .anchor}R shiny"
+"R shiny"
 ---
 
 Author (@slack):
