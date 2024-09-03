@@ -7,8 +7,8 @@ Manar Tarek (@ManarTj)
 
 # Introduction
 
-Shiny is web framework of R language. It enables R users to make web
-applications directly without need to other programming languages.
+Shiny is web framework for R language. It enables R users to make web
+applications directly by using R. cancer researchers can use it to create genomic data visualisation and analysis without need to strong web development skills.
 
 # R shiny in cancer research
 
@@ -58,7 +58,7 @@ storability. ( Munk *et al*, 2024)
 
 # Conclusion
 
-R shiny package is useful web application for R users and biologists who don\'t have strong programming skills.having important role in cancer research as it is flexible and enables researchers to customize their own tool according to their needs, facilitate collaboration of the team as it could be applied on different platforms enable them to be updated real time with every new information. 
+R shiny package have important role in cancer research as it is flexible, enables researchers to customize their own tool according to their needs and facilitate collaboration of the team as it could be applied on different platforms. 
 It can also integrated with machine learning to be used in Personalized Medicine  according to patient's genetic profile as well as the prognosis.
 
 # References
