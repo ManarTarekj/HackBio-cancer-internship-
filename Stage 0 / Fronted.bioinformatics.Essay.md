@@ -5,17 +5,18 @@ Author (@slack):
 
 Manar Tarek (@ManarTj)
 
-Introduction
+# Introduction
 
 Shiny is web framework of R language. It enables R users to make web
 applications directly without need to other programming languages.
 
-R shinhy in cancer research
+# R shinhy in cancer research
 
 Several tools are developed by this package to help researchers to
 analyse and visualise genomic data in addition to identification and
 prediction of drug targets and drug responses respectively.
- # TPWshiny:
+ 
+ TPWshiny:
 
 It is app developed by R Shiny package to facilitate examination of drug
 responses ( anti-cancer drugs) of cell lines.
@@ -45,7 +46,7 @@ height="1.011111111111111in"}
 
 ( wang *et al*, 2024)
 
-Case study
+# Case study
 
 Holomics, researchers developed it to comprehensively analyse their
 Datasets passing by single-omics analysis and multi-omics analysis.
@@ -56,14 +57,14 @@ represented in transcriptomics, metabolomics and macrobiotics data.
 It results insights about key factors about improving sugar beets
 storability. ( Munk *et al*, 2024)
 
-Conclusion
+# Conclusion
 
 R shiny package is useful web application for R users and biologists who
 don\'t have strong programming skills. It can be used to analyze,
 visualise biological data and could be integrated with other databases
 or softwares.
 
-References
+# References
 
 1.[[https://rbasics.org/packages/shiny-package-in-r/]{.underline}](https://rbasics.org/packages/shiny-package-in-r/).
 
