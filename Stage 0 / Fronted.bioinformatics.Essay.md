@@ -1,4 +1,4 @@
-"R shiny"
+R shiny
 ---
 
 Author (@slack):
@@ -15,8 +15,7 @@ R shinhy in cancer research
 Several tools are developed by this package to help researchers to
 analyse and visualise genomic data in addition to identification and
 prediction of drug targets and drug responses respectively.
-
-TPWshiny:
+ # TPWshiny:
 
 It is app developed by R Shiny package to facilitate examination of drug
 responses ( anti-cancer drugs) of cell lines.
