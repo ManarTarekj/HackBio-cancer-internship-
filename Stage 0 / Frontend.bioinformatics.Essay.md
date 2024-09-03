@@ -10,7 +10,7 @@ Manar Tarek (@ManarTj)
 Shiny is web framework of R language. It enables R users to make web
 applications directly without need to other programming languages.
 
-# R shinhy in cancer research
+# R shiny in cancer research
 
 Several tools are developed by this package to help researchers to
 analyse and visualise genomic data in addition to identification and
